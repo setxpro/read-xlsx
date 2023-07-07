@@ -1,6 +1,6 @@
 import xlsx from 'xlsx'
 
-const file = xlsx.readFile(`C:\\Users\\BG-JOANA B\\Desktop\\dev\\read-xlsx\\src\\archives\\sellers.xlsx`)
+const file = xlsx.readFile(`C:\\Users\\BG-JOANA B\\Desktop\\Projetos\\utils\\read-xlsx\\src\\archives\\extract.xlsx`)
 
 let preferredSellers:any = []
   
